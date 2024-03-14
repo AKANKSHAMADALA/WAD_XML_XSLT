@@ -8,7 +8,7 @@
                         <th bgColor="grey">Brand_Name</th>
                         <th bgColor="grey">Launch_Year</th>
                         <th bgColor="grey">Store</th>
-                        <th bgColor="grey">Locationce</th>
+                        <th bgColor="grey">Location</th>
                     </tr>
                     <xsl:for-each select="Clothing_Brands/Brand">
                         <tr>
@@ -22,7 +22,7 @@
                                 <b><xsl:value-of select="Store"/></b>
                             </td>
                             <td bgColor="blue">
-                                <b><xsl:value-of select="Locationce"/></b>
+                                <b><xsl:value-of select="Location"/></b>
                             </td>
                         </tr>
                     </xsl:for-each>
