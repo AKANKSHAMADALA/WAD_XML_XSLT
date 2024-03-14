@@ -19,10 +19,10 @@
                                 <b><xsl:value-of select="Launch_Year"/></b>
                             </td>
                             <td bgColor="blue">
-                                <b><xsl:value-of select="Store"/></b>
+                                <b><xsl:value-of select="Availability/Store"/></b>
                             </td>
                             <td bgColor="blue">
-                                <b><xsl:value-of select="Location"/></b>
+                                <b><xsl:value-of select="Availability/Location"/></b>
                             </td>
                         </tr>
                     </xsl:for-each>
@@ -31,6 +31,3 @@
         </html>
     </xsl:template>
 </xsl:stylesheet>
-
-
-
