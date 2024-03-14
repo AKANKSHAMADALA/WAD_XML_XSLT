@@ -1,0 +1,163 @@
+<?xml version="1.0"?>
+<Clothing_Brands>
+    <Brand>
+        <Brand_Name>Zara</Brand_Name>
+        <Launch_Year>1974</Launch_Year>
+        <Availability>
+            <Store>XYZ Department Store</Store>
+            <Location>City Mall, ABC Street</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>HM</Brand_Name>
+        <Launch_Year>1947</Launch_Year>
+        <Availability>
+            <Store>Fashion Paradise</Store>
+            <Location>Main Street, DEF City</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Forever 21</Brand_Name>
+        <Launch_Year>1984</Launch_Year>
+        <Availability>
+            <Store>Trendy Boutique</Store>
+            <Location>High Street, GHI Town</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Gap</Brand_Name>
+        <Launch_Year>1969</Launch_Year>
+        <Availability>
+            <Store>Urban Styles</Store>
+            <Location>Mega Mall, JKL Avenue</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Adidas</Brand_Name>
+        <Launch_Year>1949</Launch_Year>
+        <Availability>
+            <Store>Sportswear Haven</Store>
+            <Location>Sports Plaza, MNO Square</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Nike</Brand_Name>
+        <Launch_Year>1964</Launch_Year>
+        <Availability>
+            <Store>Active Lifestyle</Store>
+            <Location>Fit Street, PQR Plaza</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Puma</Brand_Name>
+        <Launch_Year>1948</Launch_Year>
+        <Availability>
+            <Store>Streetwear Junction</Store>
+            <Location>Trendy Mall, STU Street</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Levi's</Brand_Name>
+        <Launch_Year>1853</Launch_Year>
+        <Availability>
+            <Store>Denim Hub</Store>
+            <Location>Fashion Street, VWX Town</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Tommy Hilfiger</Brand_Name>
+        <Launch_Year>1985</Launch_Year>
+        <Availability>
+            <Store>Classic Attire</Store>
+            <Location>Elite Mall, YZA Plaza</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Calvin Klein</Brand_Name>
+        <Launch_Year>1968</Launch_Year>
+        <Availability>
+            <Store>Chic Trends</Store>
+            <Location>Luxury Avenue, BCD Street</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Under Armour</Brand_Name>
+        <Launch_Year>1996</Launch_Year>
+        <Availability>
+            <Store>Sportsworld</Store>
+            <Location>Athletic Square, EFG City</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>ASOS</Brand_Name>
+        <Launch_Year>2000</Launch_Year>
+        <Availability>
+            <Store>Online Exclusive</Store>
+            <Location>www.asos.com</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Boohoo</Brand_Name>
+        <Launch_Year>2006</Launch_Year>
+        <Availability>
+            <Store>Online Exclusive</Store>
+            <Location>www.boohoo.com</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Hollister</Brand_Name>
+        <Launch_Year>2000</Launch_Year>
+        <Availability>
+            <Store>Surf Styles</Store>
+            <Location>Beach Plaza, LMN Street</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Supreme</Brand_Name>
+        <Launch_Year>1994</Launch_Year>
+        <Availability>
+            <Store>Streetwear Haven</Store>
+            <Location>Trendy Street, OPQ Plaza</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Hugo Boss</Brand_Name>
+        <Launch_Year>1924</Launch_Year>
+        <Availability>
+            <Store>Luxury Emporium</Store>
+            <Location>High-End Mall, RST Avenue</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Versace</Brand_Name>
+        <Launch_Year>1978</Launch_Year>
+        <Availability>
+            <Store>Designer Boutique</Store>
+            <Location>Fashion Street, UVW Town</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Dior</Brand_Name>
+        <Launch_Year>1946</Launch_Year>
+        <Availability>
+            <Store>Chic Trends</Store>
+            <Location>Luxury Avenue, XYZ Street</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Converse</Brand_Name>
+        <Launch_Year>1908</Launch_Year>
+        <Availability>
+            <Store>Casual Comfort</Store>
+            <Location>Everywhere, Worldwide</Location>
+        </Availability>
+    </Brand>
+    <Brand>
+        <Brand_Name>Michael Kors</Brand_Name>
+        <Launch_Year>1981</Launch_Year>
+        <Availability>
+            <Store>Classic Styles</Store>
+            <Location>Elite Mall, ABC Plaza</Location>
+        </Availability>
+    </Brand>
+</Clothing_Brands>
