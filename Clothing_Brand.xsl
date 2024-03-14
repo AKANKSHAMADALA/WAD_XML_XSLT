@@ -10,7 +10,7 @@
                         <th bgColor="grey">Store</th>
                         <th bgColor="grey">Locationce</th>
                     </tr>
-                    <xsl:for-each select="product_details/product">
+                    <xsl:for-each select="Clothing_Brands/Brand">
                         <tr>
                             <td bgColor="blue">
                                 <b><xsl:value-of select="Brand_Name"/></b>
